@@ -12,7 +12,7 @@ O jogo conta a história do guardião do Bosque Galdua, que tem a missão de res
 - Itens: é possivel comprar itens para a melhoria de sua evolução, como o aumento de velocidade, e vidas extras.
 - Loja: Dentro da loja é possível comprar *upgrades* para a cobra, te ajudando a evoluir, além, de abrir seu inventário atual.
 ### Diferencial: 
-Dentro do snake king, seu objetivo é evoluir, e a cada evolução, seu comprimento e tramanho é dobrado, até que você possa comer até mesmo construções, em um RPG, Casual, focado em evolução.
+Dentro do snake king, seu objetivo é evoluir, e a cada evolução, seu comprimento e tramanho é dobrado, até que você possa comer até mesmo construções, em um RPG, Casual, focado em evolução. Sendo assim, um jogo totalmente diferente do clássico "jogo da cobrinha".
 ### Público Alvo:
 Crianças maiores de 10 anos, adolecentes e jovens adultos, que buscam jogar e progredir onde estiver, seja na hora do almoço, ou deitado no sofá.
 
